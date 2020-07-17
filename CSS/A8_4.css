@@ -1,0 +1,27 @@
+.cover 
+	{
+		height: 100vh;
+	}
+
+.row-margin 
+	{
+		margin: 4vh auto;
+	}
+
+h1 
+	{
+		font-family: "Pacifico";
+	}
+
+.btn-default 
+	{
+		background-color: black;
+		color: #fff;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+ 
+.button2:hover 
+	{
+		box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	}
